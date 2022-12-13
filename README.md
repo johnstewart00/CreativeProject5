@@ -1,1 +1,2 @@
 This program utilizes mongodb to store data entered from the user. The user is able to access that data in a variety of ways. You can create teams, or enter players that you want to remember. This webpage also utilizes an API referencing NBA basketball teams. Using the search bar, you can search any basketball team, find the team you want and find statistics for that team. 
+I learned about accessing api's within reacto to both external api's as well as the backend. Connecting pages and styling each page. Also using components to simplify code. 
